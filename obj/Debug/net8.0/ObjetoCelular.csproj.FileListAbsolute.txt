@@ -1,0 +1,14 @@
+C:\Projetos\ObjetoCelular\bin\Debug\net8.0\ObjetoCelular.exe
+C:\Projetos\ObjetoCelular\bin\Debug\net8.0\ObjetoCelular.deps.json
+C:\Projetos\ObjetoCelular\bin\Debug\net8.0\ObjetoCelular.runtimeconfig.json
+C:\Projetos\ObjetoCelular\bin\Debug\net8.0\ObjetoCelular.dll
+C:\Projetos\ObjetoCelular\bin\Debug\net8.0\ObjetoCelular.pdb
+C:\Projetos\ObjetoCelular\obj\Debug\net8.0\ObjetoCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ObjetoCelular\obj\Debug\net8.0\ObjetoCelular.AssemblyInfoInputs.cache
+C:\Projetos\ObjetoCelular\obj\Debug\net8.0\ObjetoCelular.AssemblyInfo.cs
+C:\Projetos\ObjetoCelular\obj\Debug\net8.0\ObjetoCelular.csproj.CoreCompileInputs.cache
+C:\Projetos\ObjetoCelular\obj\Debug\net8.0\ObjetoCelular.dll
+C:\Projetos\ObjetoCelular\obj\Debug\net8.0\refint\ObjetoCelular.dll
+C:\Projetos\ObjetoCelular\obj\Debug\net8.0\ObjetoCelular.pdb
+C:\Projetos\ObjetoCelular\obj\Debug\net8.0\ObjetoCelular.genruntimeconfig.cache
+C:\Projetos\ObjetoCelular\obj\Debug\net8.0\ref\ObjetoCelular.dll
